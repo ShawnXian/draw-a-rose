@@ -4,3 +4,6 @@
 4. 预览链接：[点击预览](https://jrg-team.github.io/draw-a-rose/)
 5. 效果图：
 ![](https://static.xiedaimala.com/xdml/image/2f52ffb4-4a2a-40c0-bd0d-d63d700669f8/2021-5-14-12-53-5.png)
+
+静态网页免费部署网站
+https://vercel.com/
